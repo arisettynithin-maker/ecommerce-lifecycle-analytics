@@ -205,3 +205,17 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Data files
+data/raw/*
+!data/raw/README.md
+
+# Large processed datasets (optional if too large)
+data/processed/*.csv
+
+# Power BI files (too large for GitHub)
+*.pbix
+
+# OS files
+.DS_Store
+Thumbs.db
