@@ -229,6 +229,19 @@ Based on the analysis:
 
 ---
 
+## How to Run This Project
+
+1. Install requirements
+pip install -r requirements.txt
+
+2. Run notebooks in order
+
+3. Execute SQL queries
+
+4. Open Power BI dashboard
+
+---
+
 # Author
 
 **Nithin Arisetty**
