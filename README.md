@@ -3,7 +3,7 @@
 End-to-end analytics project analyzing **~2 million e-commerce user events** to understand **customer behaviour, conversion funnels, retention patterns, and user segmentation**.
 
 The project combines **SQL, Python, and Power BI** to transform raw event data into actionable insights for product and marketing teams.
----
+
 ---
 ## Project Snapshot
 
