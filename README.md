@@ -127,6 +127,7 @@ Dashboard features:
 - Interactive filtering
 - Segment comparisons
 - Time-based engagement tracking
+<img width="1063" height="790" alt="image" src="https://github.com/user-attachments/assets/dba558c5-9ec3-4215-8d85-d623cb74490b" />
 
 ---
 
